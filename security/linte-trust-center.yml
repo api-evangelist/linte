@@ -1,0 +1,52 @@
+generated: '2026-07-19'
+method: searched
+source: https://trust.linte.com
+trust_center:
+  present: true
+  url: https://trust.linte.com
+  title: Linte Trust Center
+  platform: Vanta
+  platform_evidence: >-
+    Page serves the Vanta trust-center application (data-signature-manifest-url
+    https://assets.vanta.com/static/signature-manifest.*.json), slug id
+    347btb95roz4tszsekwuc6. Content is distinct from the linte.com wildcard
+    application shell, confirming a real, separately hosted property.
+certifications:
+  verified: []
+  status: not_verified
+  detail: >-
+    The Vanta trust center renders its certification list client-side and the
+    underlying Vanta API requires authorization (api.vanta.com returned 401
+    Unauthorized), so no certification name could be read from the public HTML.
+    NO certifications are asserted here. Operating a Vanta trust center commonly
+    accompanies a SOC 2 program, but that is an inference, not evidence, and is
+    deliberately not recorded as a finding.
+  frameworks_probed:
+  - SOC 2
+  - ISO 27001
+  - PCI DSS
+  - HIPAA
+  - FedRAMP
+  - GDPR
+  - LGPD
+  probe_result: none readable from public HTML
+  note: >-
+    linte.com/soc2-iso27001-o-que-sao-por-que-sao-importantes is an educational
+    blog article explaining what SOC 2 and ISO 27001 are. It is NOT a claim by
+    Linte to hold either certification and was not treated as one.
+subprocessors:
+  published: unknown
+  url: null
+documents:
+  gated: unknown
+  note: Vanta trust centers typically gate audit reports behind an NDA request flow.
+related:
+  security_overview: https://www.linte.com/seguranca
+  responsible_disclosure: https://www.linte.com/seguranca#divulgacao-responsavel
+  privacy_policy: https://www.linte.com/politica-de-privacidade
+  terms_of_use: https://www.linte.com/termos-de-uso
+follow_up: >-
+  Re-run against trust.linte.com with a headless browser (or an authorized Vanta
+  API token) to read the rendered certification list, then upgrade
+  certifications.verified[] and, only if named certs are confirmed, add a
+  `Compliance` pointer to apis.yml.

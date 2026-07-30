@@ -1,0 +1,72 @@
+generated: '2026-07-19'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=linte
+notes: >-
+  Linte publishes no general-purpose API SDK. The only first-party packages found
+  on any public registry are npm-published embeddable UI components for the
+  "Linte Docs" document/form product, all authored by guilherme@linte.com.
+  Deliberately NOT wired to a `SDKs` pointer in apis.yml: these are embeddable
+  form widgets, not API client libraries.
+registries_checked:
+- registry: npm
+  result: 4 first-party packages
+- registry: PyPI
+  result: none (pypi.org/pypi/linte/json -> 404)
+- registry: Maven Central
+  result: none
+- registry: NuGet
+  result: none
+- registry: pkg.go.dev
+  result: none
+- registry: RubyGems
+  result: none
+- registry: Packagist
+  result: none
+- registry: crates.io
+  result: none
+packages:
+- name: docs-embedded-react
+  registry: npm
+  url: https://www.npmjs.com/package/docs-embedded-react
+  version: 1.0.4
+  last_published: '2024-10-04'
+  language: JavaScript/TypeScript
+  license: MIT
+  official: true
+  official_evidence: author guilherme@linte.com
+  npm_maintainer: guimorais
+  description: Linte Docs - Embedded Form Component (React)
+- name: docs-embeded-react
+  registry: npm
+  url: https://www.npmjs.com/package/docs-embeded-react
+  version: 0.0.21
+  last_published: '2024-03-25'
+  language: JavaScript/TypeScript
+  license: MIT
+  official: true
+  official_evidence: author guilherme@linte.com
+  npm_maintainer: 6uimorais
+  description: Linte Docs - Embedded Form Component (React, original misspelled name)
+  superseded_by: docs-embedded-react
+- name: docs-embeded-wc
+  registry: npm
+  url: https://www.npmjs.com/package/docs-embeded-wc
+  version: 0.0.13
+  last_published: '2022-06-15'
+  language: JavaScript (Web Component)
+  license: MIT
+  official: true
+  official_evidence: author guilherme@linte.com
+  npm_maintainer: 6uimorais
+  description: Linte Docs - Embedded Form Component (framework-agnostic web component)
+- name: docs-model-setup-react
+  registry: npm
+  url: https://www.npmjs.com/package/docs-model-setup-react
+  version: 0.0.4
+  last_published: '2023-02-01'
+  language: JavaScript/TypeScript
+  license: MIT
+  official: true
+  official_evidence: author guilherme@linte.com
+  npm_maintainer: 6uimorais
+  description: Linte Docs - Embedded Model Setup Component (React)

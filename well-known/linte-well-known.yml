@@ -1,0 +1,61 @@
+generated: '2026-07-19'
+method: probed
+source: live HTTP probes of linte.com
+notes: >-
+  No /.well-known/ resources are published on linte.com. Every canonical path
+  returned 404, so no raw files were saved and NO WellKnown/SecurityTxt pointer
+  is wired into apis.yml. Recorded here so a later re-run can detect a change.
+  Note also that *.linte.com resolves as a WILDCARD: docs., developers., app.,
+  status. and arbitrary non-existent hostnames all return HTTP 200 serving the
+  identical application shell (verified by md5 against a control hostname).
+  Those 200s are NOT evidence of a docs, status or developer surface.
+host: linte.com
+probes:
+- path: /.well-known/security.txt
+  status: 404
+  file: null
+- path: /.well-known/openid-configuration
+  status: 404
+  file: null
+- path: /.well-known/oauth-authorization-server
+  status: 404
+  file: null
+- path: /.well-known/api-catalog
+  status: 404
+  file: null
+- path: /.well-known/ai-plugin.json
+  status: 404
+  file: null
+related:
+- path: /llms.txt
+  status: 200
+  file: ../llms/linte-llms.txt
+  note: Present and captured verbatim; a site page index, not an API surface.
+wildcard_dns_control:
+- host: docs.linte.com
+  status: 200
+  identical_to_control: true
+- host: developers.linte.com
+  status: 200
+  identical_to_control: true
+- host: status.linte.com
+  status: 200
+  identical_to_control: true
+- host: app.linte.com
+  status: 200
+  identical_to_control: true
+- host: zzznotreal.linte.com
+  status: 200
+  note: control hostname that does not exist; proves the wildcard
+- host: api.linte.com
+  status: 200
+  identical_to_control: false
+  note: >-
+    Genuinely distinct — returns application/json health payload
+    {"status":"ok","deployedAt":"...","xablau":true}. A real service host, but
+    Linte publishes no specification, reference or auth documentation for it,
+    so it is NOT registered as an API in apis.yml.
+- host: trust.linte.com
+  status: 200
+  identical_to_control: false
+  note: Genuinely distinct — Vanta-hosted Trust Center. See ../security/linte-trust-center.yml

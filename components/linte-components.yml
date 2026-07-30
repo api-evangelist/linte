@@ -1,0 +1,59 @@
+generated: '2026-07-19'
+method: searched
+source: https://www.npmjs.com/package/docs-embedded-react
+notes: >-
+  Linte's only public client-side surface is a small family of embeddable
+  "Linte Docs" form components distributed on npm. There is no documented
+  REST API, no developer portal, and no hosted embed/iframe documentation on
+  linte.com — the component contract below is transcribed verbatim from the
+  published npm README, which is the only public reference for it.
+families:
+- family: Linte Docs Embedded Form
+  description: >-
+    Renders a Linte Docs document/form inside a host application, pre-filling
+    template variables by variable ID or by variable name, and emitting the
+    collected variables back to the host on load and on save.
+  loaders:
+  - package: docs-embedded-react
+    kind: React component
+    install: npm install docs-embedded-react --save
+    export: DocsForm (default export)
+  - package: docs-embeded-wc
+    kind: Web Component (framework-agnostic)
+    install: npm install docs-embeded-wc --save
+  props:
+  - name: hash
+    type: string (uuid)
+    description: Identifier of the Linte Docs document/template to embed.
+  - name: variables
+    type: object
+    description: Template variables to pre-fill, keyed by variable ID.
+  - name: variablesbyName
+    type: object
+    description: Template variables to pre-fill, keyed by variable display name.
+  events:
+  - name: onSave
+    signature: ({ id, variables }) => void
+    description: Fires when the embedded form is saved; returns the saved variables.
+  - name: onLoad
+    signature: ({ variables }) => void
+    description: Fires on load; returns all variables available on the document.
+  examples:
+  - title: Basic Usage (CodeSandbox)
+    url: https://codesandbox.io/s/focused-turing-yyicd8
+    source: docs-embedded-react npm README
+- family: Linte Docs Model Setup
+  description: >-
+    Companion React component for configuring a Linte Docs document model
+    (template) from within a host application.
+  loaders:
+  - package: docs-model-setup-react
+    kind: React component
+    install: npm install docs-model-setup-react --save
+  props: []
+  events: []
+  detail: >-
+    npm publishes no README for this package; only the package description
+    ("Linte Docs - Embeded Model Setup Component") is public. Prop and event
+    surface is NOT documented publicly and is deliberately left empty here
+    rather than inferred.

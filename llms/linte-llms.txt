@@ -1,0 +1,90 @@
+# linte.com
+> Reference index of pages - use these links to access detailed information about the site content.
+
+## Pages
+- [Blog Linte - Conteúdos de tecnologia e inovação | Linte](https://linte.com/blog): Blog Linte: conteúdos exclusivos sobre gestão de contratos, inovação, automação jurídica, inteligência artificial e as últimas tendências em tecnologia empresarial.
+- [Linte Intake: o software de legal intake com IA aplicada | Linte](https://linte.com/linte-legal-intake): Linte Intake: centralize e automatize sua gestão de demandas e realize consultas com IA. Software completo de Legal Intake para controle de prazos, responsáveis e prioridades com workflows personalizados e inteligência aplicada.
+- [Linte Integrações  | Linte](https://linte.com/integracoes): Conecte o Linte aos sistemas que sua empresa já usa. Integrações com ERPs, CRMs, GEDs, assinadores digitais e ferramentas de produtividade, com segurança e fluidez.
+- [Materiais ricos da Linte | Linte](https://linte.com/materiais-ricos): Acesse conteúdos exclusivos da Linte sobre gestão de contratos, automação, inteligência artificial e transformação jurídica. Materiais ricos e estudos práticos para seu time.
+- [Secondment Linte | Profissionais Jurídicos Sob Demanda | Linte](https://linte.com/secondment): Secondment Linte: profissionais jurídicos dedicados, método estruturado e tecnologia para reforçar sua operação com eficiência, governança, produtividade e resultados.
+- [Podcast Linte Insights | Linte](https://linte.com/podcast-linte-insights): No podcast Linte Insights, você encontra conversas francas e diretas sobre inovação, eficiência, cultura organizacional e tendências com grandes referências do mercado.
+- [Linte CLM - Automação e Revisão de Documentos com IA | Linte](https://linte.com/clm-automacao-de-documentos): Linte CLM: automação de documentos com inteligência, governança, controle e padronização para a sua empresa. Elimine tarefas manuais e acelere aprovações com a Linte.
+- [Linte Stories: como grandes empresas transformaram a gestão de contratos. | Linte](https://linte.com/linte-stories): Veja como grandes empresas transformaram a gestão de contratos com a Linte. Casos reais que comprovam mais controle, eficiência, escala e segurança jurídica. Confira o Linte Stories.
+- [Linte: Gestão de Contratos com Inteligência Artificial | Linte](https://linte.com): Plataforma de CLM com inteligência artificial para automatizar fluxos jurídicos e documentos. Mais eficiência, controle e personalização para grandes empresas.
+- [Linte BI - Business Intelligence na Gestão Contratual | Linte](https://linte.com/linte-business-intelligence): Business intelligence para gestão de contratos com autonomia e segurança. Com o Linte BI, transforme dados em insights com dashboards e indicadores estratégicos.
+- [Linte AI - Inteligência Artificial para Gestão de Contratos | Linte](https://linte.com/linte-inteligencia-artificial): Inteligência artificial aplicada à revisão de contratos. O Linte AI resume versões, identifica riscos e sugere melhorias com base no seu próprio playbook.
+
+## Sitemap
+- [https://www.linte.com/a-importancia-de-migrar-o-legado-de-contratos-ao-implementar-um-software-na-sua-empresa](https://www.linte.com/a-importancia-de-migrar-o-legado-de-contratos-ao-implementar-um-software-na-sua-empresa)
+- [https://www.linte.com/guia-linte-legal-intake-inteligencia-artificial](https://www.linte.com/guia-linte-legal-intake-inteligencia-artificial)
+- [https://www.linte.com/cases](https://www.linte.com/cases)
+- [https://www.linte.com/linte-stories-case-kovi](https://www.linte.com/linte-stories-case-kovi)
+- [https://www.linte.com/tudo-que-voce-precisa-saber-sobre-ciclo-de-vida-de-contratos](https://www.linte.com/tudo-que-voce-precisa-saber-sobre-ciclo-de-vida-de-contratos)
+- [https://www.linte.com/os-times-juridicos-ja-estao-usando-inteligencia-artificial-no-dia-a-dia](https://www.linte.com/os-times-juridicos-ja-estao-usando-inteligencia-artificial-no-dia-a-dia)
+- [https://www.linte.com/politica-de-privacidade](https://www.linte.com/politica-de-privacidade)
+- [https://www.linte.com/linte-business-intelligence](https://www.linte.com/linte-business-intelligence)
+- [https://www.linte.com/10-livros-para-ler-gestao-de-contratos](https://www.linte.com/10-livros-para-ler-gestao-de-contratos)
+- [https://www.linte.com/linte-stories-case-rodonaves](https://www.linte.com/linte-stories-case-rodonaves)
+- [https://www.linte.com/o-linte-integra-com-assinadores-digitais-como-clicksign-e-docusign](https://www.linte.com/o-linte-integra-com-assinadores-digitais-como-clicksign-e-docusign)
+- [https://www.linte.com/5-problemas-que-o-linte-soluciona](https://www.linte.com/5-problemas-que-o-linte-soluciona)
+- [https://www.linte.com/como-medir-o-impacto-da-contratacao-de-um-software-para-sua-empresa](https://www.linte.com/como-medir-o-impacto-da-contratacao-de-um-software-para-sua-empresa)
+- [https://www.linte.com/assinatura-eletronica-integracao-linte-adobe-sign](https://www.linte.com/assinatura-eletronica-integracao-linte-adobe-sign)
+- [https://www.linte.com/duvidas-frequente](https://www.linte.com/duvidas-frequente)
+- [https://www.linte.com/agendar-demonstracao-linte](https://www.linte.com/agendar-demonstracao-linte)
+- [https://www.linte.com/linte-legal-intake](https://www.linte.com/linte-legal-intake)
+- [https://www.linte.com/como-advogados-cautelosos-estao-adotando-novas-tecnologias](https://www.linte.com/como-advogados-cautelosos-estao-adotando-novas-tecnologias)
+- [https://www.linte.com/linte-stories-case-siemens](https://www.linte.com/linte-stories-case-siemens)
+- [https://www.linte.com/tendencias-clm-2025-segundo-semestre](https://www.linte.com/tendencias-clm-2025-segundo-semestre)
+- [https://www.linte.com/como-a-gestao-de-contratos-pode-aumentar-os-lucros-da-sua-empresa](https://www.linte.com/como-a-gestao-de-contratos-pode-aumentar-os-lucros-da-sua-empresa)
+- [https://www.linte.com/juridico-data-driven](https://www.linte.com/juridico-data-driven)
+- [https://www.linte.com/como-centralizar-demandas-para-o-juridico-em-grandes-empresas](https://www.linte.com/como-centralizar-demandas-para-o-juridico-em-grandes-empresas)
+- [https://www.linte.com/como-funciona-ferramenta-automacao-de-contratos](https://www.linte.com/como-funciona-ferramenta-automacao-de-contratos)
+- [https://www.linte.com/perguntas-frequentes](https://www.linte.com/perguntas-frequentes)
+- [https://www.linte.com/como-convencer-seu-chefe-adotar-um-software-de-gestao-de-contratos](https://www.linte.com/como-convencer-seu-chefe-adotar-um-software-de-gestao-de-contratos)
+- [https://www.linte.com/por-que-prompt-engineering-e-mais-do-que-uma-buzzword-no-direito](https://www.linte.com/por-que-prompt-engineering-e-mais-do-que-uma-buzzword-no-direito)
+- [https://www.linte.com](https://www.linte.com)
+- [https://www.linte.com/blog](https://www.linte.com/blog)
+- [https://www.linte.com/software-de-documentos-para-multinacionais](https://www.linte.com/software-de-documentos-para-multinacionais)
+- [https://www.linte.com/linte-stories-case-accenture](https://www.linte.com/linte-stories-case-accenture)
+- [https://www.linte.com/secondment](https://www.linte.com/secondment)
+- [https://www.linte.com/clm-automacao-de-documentos](https://www.linte.com/clm-automacao-de-documentos)
+- [https://www.linte.com/como-um-software-te-ajuda-a-organizar-as-demandas-do-seu-time](https://www.linte.com/como-um-software-te-ajuda-a-organizar-as-demandas-do-seu-time)
+- [https://www.linte.com/linte-stories-case-loja-integrada](https://www.linte.com/linte-stories-case-loja-integrada)
+- [https://www.linte.com/linte-stories-case-chiesi](https://www.linte.com/linte-stories-case-chiesi)
+- [https://www.linte.com/integracoes](https://www.linte.com/integracoes)
+- [https://www.linte.com/mudanca-comeca-no-habito-pequenos-ajustes-que-aceleram-a-inovacao-na-sua-equipe-copy](https://www.linte.com/mudanca-comeca-no-habito-pequenos-ajustes-que-aceleram-a-inovacao-na-sua-equipe-copy)
+- [https://www.linte.com/podcast-linte-insights](https://www.linte.com/podcast-linte-insights)
+- [https://www.linte.com/materiais-ricos](https://www.linte.com/materiais-ricos)
+- [https://www.linte.com/como-as-integracoes-podem-potencializar-seu-projeto-de-gestao-de-contratos](https://www.linte.com/como-as-integracoes-podem-potencializar-seu-projeto-de-gestao-de-contratos)
+- [https://www.linte.com/linte-inteligencia-artificial](https://www.linte.com/linte-inteligencia-artificial)
+- [https://www.linte.com/comunidade](https://www.linte.com/comunidade)
+- [https://www.linte.com/roi-para-a-gestao-de-documentos](https://www.linte.com/roi-para-a-gestao-de-documentos)
+- [https://www.linte.com/linte-stories-case-junto-seguros](https://www.linte.com/linte-stories-case-junto-seguros)
+- [https://www.linte.com/como-usar-inteligencia-artificial-de-forma-inteligente](https://www.linte.com/como-usar-inteligencia-artificial-de-forma-inteligente)
+- [https://www.linte.com/seguranca](https://www.linte.com/seguranca)
+- [https://www.linte.com/como-combater-as-oposicoes-culturais-durante-a-implantacao-do-software](https://www.linte.com/como-combater-as-oposicoes-culturais-durante-a-implantacao-do-software)
+- [https://www.linte.com/importancia-de-automatizar-elaboracao-de-minuta-para-sua-empresa](https://www.linte.com/importancia-de-automatizar-elaboracao-de-minuta-para-sua-empresa)
+- [https://www.linte.com/carreiras-linte](https://www.linte.com/carreiras-linte)
+- [https://www.linte.com/como-empresas-estao-usando-inteligencia-artificial-para-garantir-conformidade-legal-em-2025](https://www.linte.com/como-empresas-estao-usando-inteligencia-artificial-para-garantir-conformidade-legal-em-2025)
+- [https://www.linte.com/nossos-cases](https://www.linte.com/nossos-cases)
+- [https://www.linte.com/qual-a-melhor-forma-de-fazer-gestao-de-contratos-em-grandes-empresas](https://www.linte.com/qual-a-melhor-forma-de-fazer-gestao-de-contratos-em-grandes-empresas)
+- [https://www.linte.com/produto](https://www.linte.com/produto)
+- [https://www.linte.com/por-que-ia-nao-vai-roubar-seu-trabalho](https://www.linte.com/por-que-ia-nao-vai-roubar-seu-trabalho)
+- [https://www.linte.com/linte-stories-case-banco-mercantil](https://www.linte.com/linte-stories-case-banco-mercantil)
+- [https://www.linte.com/roi](https://www.linte.com/roi)
+- [https://www.linte.com/linte-stories-case-bayer](https://www.linte.com/linte-stories-case-bayer)
+- [https://www.linte.com/cultura-de-eficiencia-como-times-de-alta-performance-organizam-o-trabalho-copy](https://www.linte.com/cultura-de-eficiencia-como-times-de-alta-performance-organizam-o-trabalho-copy)
+- [https://www.linte.com/por-que-implementar-um-clm](https://www.linte.com/por-que-implementar-um-clm)
+- [https://www.linte.com/linte-stories](https://www.linte.com/linte-stories)
+- [https://www.linte.com/ferramentas-gestao-do-tempo-e-produtividade](https://www.linte.com/ferramentas-gestao-do-tempo-e-produtividade)
+- [https://www.linte.com/7-kpis-de-clm-que-todo-lider-juridico-deve-medir](https://www.linte.com/7-kpis-de-clm-que-todo-lider-juridico-deve-medir)
+- [https://www.linte.com/como-estruturar-um-departamento-juridico-mais-eficiente-com-tecnologia](https://www.linte.com/como-estruturar-um-departamento-juridico-mais-eficiente-com-tecnologia)
+- [https://www.linte.com/termos-de-uso](https://www.linte.com/termos-de-uso)
+- [https://www.linte.com/linte-stories-case-madeiramadeira](https://www.linte.com/linte-stories-case-madeiramadeira)
+- [https://www.linte.com/passo-a-passo-para-construir-um-processo-organizado-e-entender-forcas-e-fraquezas-operacionais](https://www.linte.com/passo-a-passo-para-construir-um-processo-organizado-e-entender-forcas-e-fraquezas-operacionais)
+- [https://www.linte.com/o-que-e-clm-guia-completo-de-contract-lifecycle-management-copy](https://www.linte.com/o-que-e-clm-guia-completo-de-contract-lifecycle-management-copy)
+- [https://www.linte.com/o-que-se-espera-do-advogado-40-copy](https://www.linte.com/o-que-se-espera-do-advogado-40-copy)
+
+## Optional
+- [Agent (MCP protocol)](https://websites-agents.hostinger.com/linte.com/mcp)
+- [Agent (A2A protocol)](https://websites-agents.hostinger.com/linte.com/a2a)
