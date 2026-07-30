@@ -1,19 +1,49 @@
 aid: linte
 name: Linte
-description: Linte is a company surfaced as a portfolio company of 500-global and added to the API Evangelist
-  network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: Linte is a Brazilian legal-technology company offering an AI-powered contract
+  lifecycle management (CLM) platform for large enterprises. Its product family spans
+  Linte CLM for document automation and contract lifecycle governance, Linte AI for
+  contract review that summarizes versions and flags risk against a customer playbook,
+  Linte BI for contract analytics dashboards, and Linte Intake for legal demand intake
+  and triage. The platform integrates natively with digital signature providers including
+  ClickSign, DocuSign and D4Sign, and is sold to enterprise legal, procurement and
+  compliance teams primarily in Brazil. Linte publishes no public API program, developer
+  portal or API reference; its only public developer-facing artifacts are npm-published
+  embeddable "Linte Docs" form components.
 url: https://raw.githubusercontent.com/api-evangelist/linte/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=1440,h=756,fit=crop,f=jpeg/mjE7R8eBg0tqva7X/linte_logo-c--fundo-1-mk3J8ZrJjnFyWjLJ.jpg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
 - 500-global
-x-tier: stub
-x-tier-reason: portfolio-lead
+x-tier: profiled
+x-tier-reason: enriched-no-public-api
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-19'
 tags:
 - Company
+- Contract Lifecycle Management
+- Legal Tech
+- Document Automation
+- Artificial Intelligence
+- Contract Management
+- Legal Operations
+- Electronic Signature
+- Business Intelligence
+- Brazil
+- SaaS
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +53,46 @@ maintainers:
 common:
 - type: Website
   url: https://linte.com
+- type: Portal
+  url: https://www.linte.com/produto
+- type: Blog
+  url: https://www.linte.com/blog
+- type: Support
+  url: https://knowledge.linte.com/help
+- type: HelpCenter
+  url: https://knowledge.linte.com/help
+- type: FAQ
+  url: https://www.linte.com/perguntas-frequentes
+- type: Community
+  url: https://www.linte.com/comunidade
+- type: Login
+  url: https://app.linte.co/
+- type: TermsOfService
+  url: https://www.linte.com/termos-de-uso
+- type: PrivacyPolicy
+  url: https://www.linte.com/politica-de-privacidade
+- type: GitHubOrganization
+  url: https://github.com/linte
+- type: Integrations
+  url: https://www.linte.com/integracoes
+- type: LLMsTxt
+  url: llms/linte-llms.txt
+- type: Packages
+  url: packages/linte-packages.yml
+- type: Components
+  url: components/linte-components.yml
+- type: DomainSecurity
+  url: security/linte-domain-security.yml
+- type: VulnerabilityDisclosure
+  url: security/linte-vulnerability-disclosure.yml
+- type: Security
+  url: security/linte-vulnerability-disclosure.yml
+- type: TrustCenter
+  url: security/linte-trust-center.yml
+- type: Trust
+  url: https://trust.linte.com
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
