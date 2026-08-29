@@ -11,6 +11,9 @@ description: Linte is a Brazilian legal-technology company offering an AI-powere
   portal or API reference; its only public developer-facing artifacts are npm-published
   embeddable "Linte Docs" form components.
 url: https://raw.githubusercontent.com/api-evangelist/linte/refs/heads/main/apis.yml
+x-api-posture: no-product-api
+x-api-posture-basis: observed
+x-api-posture-note: "Linte publishes no public API program, developer portal or API reference; its only public developer-facing artifacts are npm-published embeddable 'Linte Docs' form components."
 deliveryModel:
   model: saas
   open_source: false
