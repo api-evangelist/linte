@@ -64,6 +64,86 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Linte is a company surfaced as a portfolio company of 500-global and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Linte is a Brazilian legal-technology company offering an AI-powered contract lifecycle management (CLM) platform for large enterprises. Its product family spans Linte CLM for document automation and contract lifecycle governance, Linte AI for contract review that summarizes versions and flags risk against a customer playbook, Linte BI for contract analytics dashboards, and Linte Intake for legal demand intake and triage. The platform integrates natively with digital signature providers including ClickSign, DocuSign and D4Sign, and is sold to enterprise legal, procurement and compliance teams primarily in Brazil. Linte publishes no public API program, developer portal or API reference; its only public developer-facing artifacts are npm-published embeddable "Linte Docs" form components.
 
-Backed by: 500-global — https://linte.com
+**Areas:** Company · Contract Lifecycle Management · Legal Tech · Document Automation · Artificial Intelligence · Contract Management · Legal Operations · E-Signature · Business Intelligence · Brazil · Software-as-a-Service
+
+## Linte on APIs.io
+
+Everything profiled for Linte is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/linte/](https://apis.io/providers/linte/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (3)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Linte Domain Security](https://apis.io/security/linte/linte-domain-security/)
+- [Linte Trust Center](https://apis.io/security/linte/linte-trust-center/)
+- [Linte Vulnerability Disclosure](https://apis.io/security/linte/linte-vulnerability-disclosure/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://linte.com)
+- [Support](https://knowledge.linte.com/help)
+- [Blog](https://www.linte.com/blog)
+- [Terms of service](https://www.linte.com/termos-de-uso)
+- [Privacy policy](https://www.linte.com/politica-de-privacidade)
+- [GitHub](https://github.com/linte)
+
+## API Evangelist rating
+
+**Kin Score 18.8** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 35.5 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 22.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/linte/](https://apis.io/providers/linte/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Linte: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/linte/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
